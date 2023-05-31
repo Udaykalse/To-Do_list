@@ -1,0 +1,16 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 10px 20px;
+    box-sizing: border-box;
+  }
+  
+  .navbar-title {
+    color: #fff;
+    font-size: 20px;
+    margin: 0;
+  }
+  
